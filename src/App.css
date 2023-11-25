@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #0f0f0f;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.carrito {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 50px;
+}
+
